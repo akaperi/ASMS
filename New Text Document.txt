@@ -1,0 +1,12 @@
+<html>
+<body>
+<form name=check>
+Select Subjects
+Kannada<input type=radio name=KANNADA>
+English<input type=radio name=ENGLISH>
+Hindi<input type=radio name=HINDI>
+Maths<input type=radio name=MATHEMATICS>
+
+</form>
+</body>
+</html>

@@ -1,0 +1,47 @@
+body
+{
+background-color: #e8f0f2;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: brown;
+    /* position: fixed; */
+    top:50pt;
+    width:100%;
+  }
+
+li {
+     float:left;
+	 border-right: 1px dotted white;
+
+}
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    opacity: .8;
+}
+
+/* Change the link color to green on hover */
+li a:hover {
+    background-color: green;
+}
+li a:VISITED
+{
+	background-color: green;
+}
+
+ul li:hover ul li
+{
+    display: block;
+}
