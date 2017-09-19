@@ -12,6 +12,8 @@ public class First {
 		// TODO Auto-generated method stub
 System.out.println("Hi");
 System.out.println("I'm Github");
+System.out.println("Hi");
+System.out.println("I'm Github");
 
 	}
 	
